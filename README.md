@@ -1,4 +1,4 @@
 # apna-college
 tutorial
 <br>
-Learning git
+Learning gits
